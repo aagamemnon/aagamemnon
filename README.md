@@ -1,8 +1,7 @@
 <div align='center'>
   <b> 　꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂　 </b>
-  
      <br>　　<br>
-  
+     
 <div align='center'> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&pause=1000&color=7B7B7B&center=true&width=438&lines=show+us+what+you+really+are+like+on+the+inside" alt="Typing SVG" /></a>
      <br>　　<br>
