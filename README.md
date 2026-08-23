@@ -2,7 +2,7 @@
   <b> 　ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃˢ ᵍᵘᶦˡᵗʸ ᵃˢ ᵗʰᵉᵐ　 </b>
      <br>　　<br>
 <div align='center'> 
-<img src='<a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&pause=1000&color=7B7B7B&center=true&width=438&lines=show+us+what+you+really+are+like+on+the+inside)](https://git.io/typing-svg)'
+<img src='<a href=[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&pause=1000&color=7B7B7B&center=true&width=438&lines=show+us+what+you+really+are+like+on+the+inside)](https://git.io/typing-svg)'
   
    <br>　　<br>
 
