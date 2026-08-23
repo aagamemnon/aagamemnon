@@ -6,8 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&pause=1000&color=7B7B7B&center=true&width=438&lines=show+us+what+you+really+are+like+on+the+inside" alt="Typing SVG" /></a>
 
 <b> 𝒎𝒐𝒖𝒓𝒏 ᵒʳ fen͟r͟i͟r͟ <br>
-   
-<b> read rentry b4 interacting <b>
    <br>　　<br>
 
 <div align='center'> 
