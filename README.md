@@ -1,5 +1,5 @@
 <div align='center'>
-  <b> 　$${\color{red}꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂　 </b>
+  <b> 　꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂　 </b>
      <br>　　<br>
      
 <div align='center'> 
